@@ -1,0 +1,358 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=C:\Users\ToshiBa\Desktop\Math S6\PFE\last tests\demo0.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo0.c|demo1.c|demo2.c|droit.c|e_acc.c|e_ad_conv.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_led.c|e_lsm330.c|e_micro.c|e_motors.c|e_prox.c|e_uart1_rx_char.s|e_uart1_tx_char.s|escape.c|main_c.c|rundetectsound.c|rungyroscope.c|runsquare.c|runsquare2.c|tera.c|utility.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File001]
+Location=C:\Users\ToshiBa\Desktop\Math S6\PFE\last tests\demo1.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo0.c|demo1.c|demo2.c|droit.c|e_acc.c|e_ad_conv.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_led.c|e_lsm330.c|e_micro.c|e_motors.c|e_prox.c|e_uart1_rx_char.s|e_uart1_tx_char.s|escape.c|main_c.c|rundetectsound.c|rungyroscope.c|runsquare.c|runsquare2.c|tera.c|utility.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File002]
+Location=C:\Users\ToshiBa\Desktop\Math S6\PFE\last tests\demo2.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo0.c|demo1.c|demo2.c|droit.c|e_acc.c|e_ad_conv.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_led.c|e_lsm330.c|e_micro.c|e_motors.c|e_prox.c|e_uart1_rx_char.s|e_uart1_tx_char.s|escape.c|main_c.c|rundetectsound.c|rungyroscope.c|runsquare.c|runsquare2.c|tera.c|utility.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File003]
+Location=C:\Users\ToshiBa\Desktop\Math S6\PFE\last tests\droit.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo0.c|demo1.c|demo2.c|droit.c|e_acc.c|e_ad_conv.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_led.c|e_lsm330.c|e_micro.c|e_motors.c|e_prox.c|e_uart1_rx_char.s|e_uart1_tx_char.s|escape.c|main_c.c|rundetectsound.c|rungyroscope.c|runsquare.c|runsquare2.c|tera.c|utility.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File004]
+Location=C:\Users\ToshiBa\Desktop\Math S6\PFE\last tests\e_acc.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo0.c|demo1.c|demo2.c|droit.c|e_acc.c|e_ad_conv.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_led.c|e_lsm330.c|e_micro.c|e_motors.c|e_prox.c|e_uart1_rx_char.s|e_uart1_tx_char.s|escape.c|main_c.c|rundetectsound.c|rungyroscope.c|runsquare.c|runsquare2.c|tera.c|utility.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File005]
+Location=C:\Users\ToshiBa\Desktop\Math S6\PFE\last tests\e_ad_conv.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo0.c|demo1.c|demo2.c|droit.c|e_acc.c|e_ad_conv.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_led.c|e_lsm330.c|e_micro.c|e_motors.c|e_prox.c|e_uart1_rx_char.s|e_uart1_tx_char.s|escape.c|main_c.c|rundetectsound.c|rungyroscope.c|runsquare.c|runsquare2.c|tera.c|utility.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File006]
+Location=C:\Users\ToshiBa\Desktop\Math S6\PFE\last tests\e_I2C_master_module.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo0.c|demo1.c|demo2.c|droit.c|e_acc.c|e_ad_conv.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_led.c|e_lsm330.c|e_micro.c|e_motors.c|e_prox.c|e_uart1_rx_char.s|e_uart1_tx_char.s|escape.c|main_c.c|rundetectsound.c|rungyroscope.c|runsquare.c|runsquare2.c|tera.c|utility.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File007]
+Location=C:\Users\ToshiBa\Desktop\Math S6\PFE\last tests\e_I2C_protocol.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo0.c|demo1.c|demo2.c|droit.c|e_acc.c|e_ad_conv.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_led.c|e_lsm330.c|e_micro.c|e_motors.c|e_prox.c|e_uart1_rx_char.s|e_uart1_tx_char.s|escape.c|main_c.c|rundetectsound.c|rungyroscope.c|runsquare.c|runsquare2.c|tera.c|utility.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File008]
+Location=C:\Users\ToshiBa\Desktop\Math S6\PFE\last tests\e_init_port.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo0.c|demo1.c|demo2.c|droit.c|e_acc.c|e_ad_conv.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_led.c|e_lsm330.c|e_micro.c|e_motors.c|e_prox.c|e_uart1_rx_char.s|e_uart1_tx_char.s|escape.c|main_c.c|rundetectsound.c|rungyroscope.c|runsquare.c|runsquare2.c|tera.c|utility.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File009]
+Location=C:\Users\ToshiBa\Desktop\Math S6\PFE\last tests\e_init_uart1.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={DE18EB1A-B46B-486B-B96F-A811A635DFAC}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-as.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo0.c|demo1.c|demo2.c|droit.c|e_acc.c|e_ad_conv.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_led.c|e_lsm330.c|e_micro.c|e_motors.c|e_prox.c|e_uart1_rx_char.s|e_uart1_tx_char.s|escape.c|main_c.c|rundetectsound.c|rungyroscope.c|runsquare.c|runsquare2.c|tera.c|utility.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=--defsym=__DEBUG=1
+[File010]
+Location=C:\Users\ToshiBa\Desktop\Math S6\PFE\last tests\e_led.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo0.c|demo1.c|demo2.c|droit.c|e_acc.c|e_ad_conv.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_led.c|e_lsm330.c|e_micro.c|e_motors.c|e_prox.c|e_uart1_rx_char.s|e_uart1_tx_char.s|escape.c|main_c.c|rundetectsound.c|rungyroscope.c|runsquare.c|runsquare2.c|tera.c|utility.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File011]
+Location=C:\Users\ToshiBa\Desktop\Math S6\PFE\last tests\e_lsm330.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo0.c|demo1.c|demo2.c|droit.c|e_acc.c|e_ad_conv.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_led.c|e_lsm330.c|e_micro.c|e_motors.c|e_prox.c|e_uart1_rx_char.s|e_uart1_tx_char.s|escape.c|main_c.c|rundetectsound.c|rungyroscope.c|runsquare.c|runsquare2.c|tera.c|utility.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File012]
+Location=C:\Users\ToshiBa\Desktop\Math S6\PFE\last tests\e_micro.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo0.c|demo1.c|demo2.c|droit.c|e_acc.c|e_ad_conv.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_led.c|e_lsm330.c|e_micro.c|e_motors.c|e_prox.c|e_uart1_rx_char.s|e_uart1_tx_char.s|escape.c|main_c.c|rundetectsound.c|rungyroscope.c|runsquare.c|runsquare2.c|tera.c|utility.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File013]
+Location=C:\Users\ToshiBa\Desktop\Math S6\PFE\last tests\e_motors.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo0.c|demo1.c|demo2.c|droit.c|e_acc.c|e_ad_conv.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_led.c|e_lsm330.c|e_micro.c|e_motors.c|e_prox.c|e_uart1_rx_char.s|e_uart1_tx_char.s|escape.c|main_c.c|rundetectsound.c|rungyroscope.c|runsquare.c|runsquare2.c|tera.c|utility.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File014]
+Location=C:\Users\ToshiBa\Desktop\Math S6\PFE\last tests\e_prox.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo0.c|demo1.c|demo2.c|droit.c|e_acc.c|e_ad_conv.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_led.c|e_lsm330.c|e_micro.c|e_motors.c|e_prox.c|e_uart1_rx_char.s|e_uart1_tx_char.s|escape.c|main_c.c|rundetectsound.c|rungyroscope.c|runsquare.c|runsquare2.c|tera.c|utility.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File015]
+Location=C:\Users\ToshiBa\Desktop\Math S6\PFE\last tests\e_uart1_rx_char.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={DE18EB1A-B46B-486B-B96F-A811A635DFAC}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-as.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo0.c|demo1.c|demo2.c|droit.c|e_acc.c|e_ad_conv.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_led.c|e_lsm330.c|e_micro.c|e_motors.c|e_prox.c|e_uart1_rx_char.s|e_uart1_tx_char.s|escape.c|main_c.c|rundetectsound.c|rungyroscope.c|runsquare.c|runsquare2.c|tera.c|utility.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=--defsym=__DEBUG=1
+[File016]
+Location=C:\Users\ToshiBa\Desktop\Math S6\PFE\last tests\e_uart1_tx_char.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={DE18EB1A-B46B-486B-B96F-A811A635DFAC}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-as.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo0.c|demo1.c|demo2.c|droit.c|e_acc.c|e_ad_conv.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_led.c|e_lsm330.c|e_micro.c|e_motors.c|e_prox.c|e_uart1_rx_char.s|e_uart1_tx_char.s|escape.c|main_c.c|rundetectsound.c|rungyroscope.c|runsquare.c|runsquare2.c|tera.c|utility.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=--defsym=__DEBUG=1
+[File017]
+Location=C:\Users\ToshiBa\Desktop\Math S6\PFE\last tests\escape.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo0.c|demo1.c|demo2.c|droit.c|e_acc.c|e_ad_conv.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_led.c|e_lsm330.c|e_micro.c|e_motors.c|e_prox.c|e_uart1_rx_char.s|e_uart1_tx_char.s|escape.c|main_c.c|rundetectsound.c|rungyroscope.c|runsquare.c|runsquare2.c|tera.c|utility.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File018]
+Location=C:\Users\ToshiBa\Desktop\Math S6\PFE\last tests\main_c.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo0.c|demo1.c|demo2.c|droit.c|e_acc.c|e_ad_conv.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_led.c|e_lsm330.c|e_micro.c|e_motors.c|e_prox.c|e_uart1_rx_char.s|e_uart1_tx_char.s|escape.c|main_c.c|rundetectsound.c|rungyroscope.c|runsquare.c|runsquare2.c|tera.c|utility.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File019]
+Location=C:\Users\ToshiBa\Desktop\Math S6\PFE\last tests\rundetectsound.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo0.c|demo1.c|demo2.c|droit.c|e_acc.c|e_ad_conv.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_led.c|e_lsm330.c|e_micro.c|e_motors.c|e_prox.c|e_uart1_rx_char.s|e_uart1_tx_char.s|escape.c|main_c.c|rundetectsound.c|rungyroscope.c|runsquare.c|runsquare2.c|tera.c|utility.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File020]
+Location=C:\Users\ToshiBa\Desktop\Math S6\PFE\last tests\rungyroscope.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo0.c|demo1.c|demo2.c|droit.c|e_acc.c|e_ad_conv.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_led.c|e_lsm330.c|e_micro.c|e_motors.c|e_prox.c|e_uart1_rx_char.s|e_uart1_tx_char.s|escape.c|main_c.c|rundetectsound.c|rungyroscope.c|runsquare.c|runsquare2.c|tera.c|utility.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File021]
+Location=C:\Users\ToshiBa\Desktop\Math S6\PFE\last tests\runsquare.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo0.c|demo1.c|demo2.c|droit.c|e_acc.c|e_ad_conv.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_led.c|e_lsm330.c|e_micro.c|e_motors.c|e_prox.c|e_uart1_rx_char.s|e_uart1_tx_char.s|escape.c|main_c.c|rundetectsound.c|rungyroscope.c|runsquare.c|runsquare2.c|tera.c|utility.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File022]
+Location=C:\Users\ToshiBa\Desktop\Math S6\PFE\last tests\runsquare2.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo0.c|demo1.c|demo2.c|droit.c|e_acc.c|e_ad_conv.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_led.c|e_lsm330.c|e_micro.c|e_motors.c|e_prox.c|e_uart1_rx_char.s|e_uart1_tx_char.s|escape.c|main_c.c|rundetectsound.c|rungyroscope.c|runsquare.c|runsquare2.c|tera.c|utility.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File023]
+Location=C:\Users\ToshiBa\Desktop\Math S6\PFE\last tests\tera.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo0.c|demo1.c|demo2.c|droit.c|e_acc.c|e_ad_conv.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_led.c|e_lsm330.c|e_micro.c|e_motors.c|e_prox.c|e_uart1_rx_char.s|e_uart1_tx_char.s|escape.c|main_c.c|rundetectsound.c|rungyroscope.c|runsquare.c|runsquare2.c|tera.c|utility.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File024]
+Location=C:\Users\ToshiBa\Desktop\Math S6\PFE\last tests\utility.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo0.c|demo1.c|demo2.c|droit.c|e_acc.c|e_ad_conv.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_led.c|e_lsm330.c|e_micro.c|e_motors.c|e_prox.c|e_uart1_rx_char.s|e_uart1_tx_char.s|escape.c|main_c.c|rundetectsound.c|rungyroscope.c|runsquare.c|runsquare2.c|tera.c|utility.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File025]
+Location=C:\Users\ToshiBa\Desktop\Math S6\PFE\last tests\test1.cof
+Folder=Output
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo0.c|demo1.c|demo2.c|droit.c|e_acc.c|e_ad_conv.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_led.c|e_lsm330.c|e_micro.c|e_motors.c|e_prox.c|e_uart1_rx_char.s|e_uart1_tx_char.s|escape.c|main_c.c|rundetectsound.c|rungyroscope.c|runsquare.c|runsquare2.c|tera.c|utility.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -Map="$(BINDIR_)$(TARGETBASE).map" --report-mem
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1
+[File026]
+Location=C:\Users\ToshiBa\Desktop\Math S6\PFE\last tests\test1.hex
+Folder=Output
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|demo0.c|demo1.c|demo2.c|droit.c|e_acc.c|e_ad_conv.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_led.c|e_lsm330.c|e_micro.c|e_motors.c|e_prox.c|e_uart1_rx_char.s|e_uart1_tx_char.s|escape.c|main_c.c|rundetectsound.c|rungyroscope.c|runsquare.c|runsquare2.c|tera.c|utility.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -Map="$(BINDIR_)$(TARGETBASE).map" --report-mem
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1
+[TOOL_LOC_STAMPS]
+tool_loc{DE18EB1A-B46B-486B-B96F-A811A635DFAC}=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-as.exe
+tool_loc{069BD372-6CA0-40D4-BF2F-5DC806D05083}=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+tool_loc{433C3D55-811D-409D-A6BF-159CF9355B42}=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-ld.exe
